@@ -1,5 +1,5 @@
 # ECG-R-peaks-detection
-R peaks detection in ECGs using wavelet decomposition and higher statistics, implemented in MATLA
+R peaks detection in ECGs using wavelet decomposition and higher statistics, implemented in MATLAB
 
 This project is implemented in MATLAB. The wfdb toolbox must be installed in order to execute this. You can find instructions here: https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/
 
